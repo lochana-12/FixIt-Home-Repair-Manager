@@ -75,19 +75,19 @@ FixIt-Home-Repair-Manager/
 ## 📸 Screenshots
 
 ### Login Page
-![Login](Screenshot%202025-07-13%20205856.png)
+![Login](screenshots/login.png)
 
 ### Sign Up Page
-![Sign Up](Screenshot%202025-07-13%20210108.png)
+![Sign Up](screenshots/signup.png)
 
 ### Dashboard
-![Dashboard](Screenshot%202025-07-13%20210122.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Add Task
-![Add Task](Screenshot%202025-07-13%20211604.png)
+![Add Task](screenshots/add-task.png)
 
 ### Task List
-![Task List](Screenshot%202025-07-13%20211624.png)
+![Task List](screenshots/task-list.png)
 
 ## 🚀 Installation
 
