@@ -70,17 +70,6 @@ FixIt-Home-Repair-Manager/
 └── .gitignore
 ```
 
----
-
-![Login](screenshots/Screenshot%202025-07-13%20205856.png)
-
-![Sign Up](screenshots/Screenshot%202025-07-13%20210108.png)
-
-![Dashboard](screenshots/Screenshot%202025-07-13%20210122.png)
-
-![Add Task](screenshots/Screenshot%202025-07-13%20211604.png)
-
-![Task List](screenshots/Screenshot%202025-07-13%20211624.png)
 
 ## 🚀 Installation
 
